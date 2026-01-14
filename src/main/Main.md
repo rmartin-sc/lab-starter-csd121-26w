@@ -8,6 +8,6 @@ Enter your name here: Rodney Martin
 
 ## The best animals
 
-1. Cuttlefish
-2. Platypus
-3. Three-toed sloth
+1. Zebra
+2. Yak
+3. Xerus
