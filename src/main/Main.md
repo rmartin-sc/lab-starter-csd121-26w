@@ -8,6 +8,9 @@ Enter your name here: Rodney Martin
 
 ## The best animals
 
-1. Zebra
-2. Yak
-3. Xerus
+1. Axolotl
+2. Bonobo
+3. Capybara
+4. Xerus
+5. Yak
+6. Zebra
